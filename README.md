@@ -1,4 +1,4 @@
-# Python-Sockets 
+# Python-Sockets  
         
 I utilized my knowledge of networking sockets in Python to write a custom client/server program.   
   
